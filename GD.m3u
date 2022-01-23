@@ -22,3 +22,6 @@ http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=00&amp;FvSeid=1&amp;Fsv_
 
 #EXTINF:-1 ,广东潮州综合
 http://dslive.grtn.cn/czzh/sd/live.m3u8
+
+#EXTINF:-1 ,Now直播331台
+https://api.leonardpark.dev/live/now/331
