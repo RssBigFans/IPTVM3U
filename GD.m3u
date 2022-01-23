@@ -25,3 +25,6 @@ http://dslive.grtn.cn/czzh/sd/live.m3u8
 
 #EXTINF:-1 ,Now直播331台
 https://api.leonardpark.dev/live/now/331
+
+#EXTINF:-1 ,テレビ朝日
+http://203.162.235.41:16906
