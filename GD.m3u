@@ -86,6 +86,9 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Sportskool TV (720p)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 
+#EXTINF:-1 ,Eurosport (UK)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
 #EXTINF:-1 ,HBO
 http://125.227.210.55:16027/VideoInput/play.ts
 
@@ -112,6 +115,9 @@ http://iptv.tvmalaysia.cc:80/kl570/kl570/7198
 
 #EXTINF:-1 ,三立台湾台
 http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+
+#EXTINF:-1 ,三立新闻台
+http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
 
 #EXTINF:-1 ,东森戏剧台
 http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
@@ -288,10 +294,10 @@ http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.
 http://iptv.tvfix.org/hls/jade2.m3u8
 
 #EXTINF:-1 ,无线新闻
-http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+http://livetv.dnsfor.me:80/channel.10.m3u8
 
 #EXTINF:-1 ,无线财经
-http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+http://livetv.dnsfor.me:80/channel.11.m3u8
 
 #EXTINF:-1 ,明珠台
 http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
@@ -311,8 +317,11 @@ http://iptv.tvfix.org/hls/tvbws.m3u8
 #EXTINF:-1 ,TVB经典(港版)
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 
-#EXTINF:-1 ,Now直播331台
-https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now直播台" tvg-logo="https://rb.gy/kshrvf" ,Now直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now新聞台" tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
 
 #EXTINF:-1 ,有線新聞台
 https://api.leonardpark.dev/live/icable/109
@@ -326,6 +335,9 @@ http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 #EXTINF:-1 ,有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
 
+#EXTINF:-1 ,有線 Sports Plus 1
+rtmp://59.124.75.157/sat/hk021
+
 #EXTINF:-1 ,有線賽馬
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
 
@@ -334,6 +346,9 @@ http://124.238.99.44:808/hls/329/index.m3u8
 
 #EXTINF:-1 ,超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+
+#EXTINF:-1 ,NewTV精品体育
+http://39.134.116.30:8080/PLTV/88888910/224/3221225709/index.m3u8
 
 #EXTINF:-1 ,超级电影
 http://39.135.138.59:18890/TVOD/88888910/224/3221225766/index.m3u8
