@@ -47,6 +47,24 @@ http://203.162.235.41:16912
 #EXTINF:-1 ,日テレ
 http://203.162.235.41:16905
 
+#EXTINF:-1 ,WOWOWシネマ
+http://203.162.235.41:16916
+
+#EXTINF:-1 ,群马テレビ
+https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+
+#EXTINF:-1 ,东京MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+
+#EXTINF:-1 ,东京MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+
+#EXTINF:-1 ,MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+
+#EXTINF:-1 ,ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
 #EXTINF:-1 ,NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 
@@ -328,6 +346,12 @@ http://livetv.dnsfor.me/channel.3.m3u8
 
 #EXTINF:-1 group-title="香港頻道" tvg-name="Now新聞台" tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+
+#EXTINF:-1 ,香港电台31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
+#EXTINF:-1 ,香港电台32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1 ,有線新聞台
 http://livetv.dnsfor.me/channel.5.m3u8
