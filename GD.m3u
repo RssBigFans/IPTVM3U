@@ -17,6 +17,9 @@ http://203.162.235.41:16901
 #EXTINF:-1 ,NHK BSプレミアム
 http://203.162.235.41:16910
 
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Japan",Fuji TV (540p)
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+
 #EXTINF:-1 ,TBSテレビ
 http://203.162.235.41:16907
 
